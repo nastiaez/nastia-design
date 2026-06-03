@@ -1675,20 +1675,20 @@ a {
   grid-column: span 3 / span 3;
 }
 
-#w-node-b6030549-5edf-d8e6-b9c5-740bb1b436ab-095c25e3, #w-node-f100ad46-fe5e-e4b2-2926-f27a1928baf6-095c25e3 {
+#w-node-b6030549-5edf-d8e6-b9c5-740bb1b436ab-095c25e3, #w-node-_6af87513-1233-4929-a77d-blab00000001-095c25e3, #w-node-f100ad46-fe5e-e4b2-2926-f27a1928baf6-095c25e3 {
   grid-template-rows: auto auto auto;
   grid-template-columns: auto auto auto 1fr;
 }
 
-#w-node-f100ad46-fe5e-e4b2-2926-f27a1928baf7-095c25e3 {
+#w-node-_6af87513-1233-4929-a77d-blab00000002-095c25e3, #w-node-f100ad46-fe5e-e4b2-2926-f27a1928baf7-095c25e3 {
   grid-column: span 3 / span 3;
 }
 
-#w-node-_3965527d-38bf-eca6-1b6c-5274c863c902-095c25e3 {
+#w-node-_6af87513-1233-4929-a77d-blab00000003-095c25e3, #w-node-_3965527d-38bf-eca6-1b6c-5274c863c902-095c25e3 {
   grid-column: span 4 / span 4;
 }
 
-#w-node-_7e571279-a454-82a2-b27e-b33bcfc781bf-095c25e3 {
+#w-node-_6af87513-1233-4929-a77d-blab00000004-095c25e3, #w-node-_7e571279-a454-82a2-b27e-b33bcfc781bf-095c25e3 {
   grid-column: span 3 / span 3;
 }
 
@@ -1767,7 +1767,7 @@ a {
 }
 
 @media screen and (max-width: 991px) {
-  #w-node-f100ad46-fe5e-e4b2-2926-f27a1928baf7-095c25e3, #w-node-_7e571279-a454-82a2-b27e-b33bcfc781bf-095c25e3, #w-node-_4ea96eeb-da43-803b-d25f-08441fb6e2c3-095c25e3, #w-node-_4ea96eeb-da43-803b-d25f-08441fb6e2cb-095c25e3, #w-node-_49de4840-3125-e440-322c-fd3b9468dac4-095c25e3, #w-node-_49de4840-3125-e440-322c-fd3b9468daca-095c25e3 {
+  #w-node-_6af87513-1233-4929-a77d-blab00000002-095c25e3, #w-node-_6af87513-1233-4929-a77d-blab00000004-095c25e3, #w-node-f100ad46-fe5e-e4b2-2926-f27a1928baf7-095c25e3, #w-node-_7e571279-a454-82a2-b27e-b33bcfc781bf-095c25e3, #w-node-_4ea96eeb-da43-803b-d25f-08441fb6e2c3-095c25e3, #w-node-_4ea96eeb-da43-803b-d25f-08441fb6e2cb-095c25e3, #w-node-_49de4840-3125-e440-322c-fd3b9468dac4-095c25e3, #w-node-_49de4840-3125-e440-322c-fd3b9468daca-095c25e3 {
     grid-column: span 4 / span 4;
   }
 
@@ -1787,7 +1787,7 @@ a {
     grid-column: span 4 / span 4;
   }
 
-  #w-node-b6030549-5edf-d8e6-b9c5-740bb1b436ab-095c25e3, #w-node-f100ad46-fe5e-e4b2-2926-f27a1928baf6-095c25e3, #w-node-_4ea96eeb-da43-803b-d25f-08441fb6e2c2-095c25e3, #w-node-_49de4840-3125-e440-322c-fd3b9468dac3-095c25e3 {
+  #w-node-b6030549-5edf-d8e6-b9c5-740bb1b436ab-095c25e3, #w-node-_6af87513-1233-4929-a77d-blab00000001-095c25e3, #w-node-f100ad46-fe5e-e4b2-2926-f27a1928baf6-095c25e3, #w-node-_4ea96eeb-da43-803b-d25f-08441fb6e2c2-095c25e3, #w-node-_49de4840-3125-e440-322c-fd3b9468dac3-095c25e3 {
     grid-template-rows: auto;
     grid-template-columns: 1fr;
   }
@@ -1812,6 +1812,43 @@ a {
   #w-node-d41c5760-57d7-cba1-6a1e-2e1a0181bec9-19d5c138, #w-node-a3b5fc84-7303-91d0-ec58-a34733af804d-19d5c138, #w-node-a3b5fc84-7303-91d0-ec58-a34733af8068-19d5c138, #w-node-_90b38740-571f-6462-563a-de33626b5296-19d5c138, #w-node-acc93fa2-51d7-6519-c0ea-e36ee6d458f7-b600cddb, #w-node-_68a46409-10d5-2ab9-d3a7-b5ee68b30b87-b600cddb, #w-node-f8dcd429-22a5-89ab-edea-bafd0ba835f9-b600cddb, #w-node-_820a92fa-2077-190d-087c-ecab813904a6-b600cddb, #w-node-d7c6c979-db75-0eda-141a-6f1cdcc41dff-b600cddb, #w-node-d8ebf374-05d8-8c79-f81a-315276cee1d8-b600cddb, #w-node-_1893a1ab-85e3-b4a7-c270-0f3277aed48a-b600cddb {
     grid-template-rows: auto;
     grid-template-columns: 1fr;
+  }
+
+}
+
+@media screen and (max-width: 767px) {
+  #w-node-_6af87513-1233-4929-a77d-blab00000001-095c25e3 {
+    width: calc(100vw - 2rem);
+    max-width: 30rem;
+    overflow: visible;
+  }
+
+  #w-node-_6af87513-1233-4929-a77d-blab00000001-095c25e3 .heading-2 {
+    font-size: 1.75rem;
+    line-height: 110%;
+  }
+
+  #w-node-_6af87513-1233-4929-a77d-blab00000001-095c25e3 .project-thumbnail {
+    width: 100%;
+    height: 20rem;
+  }
+
+  #w-node-_6af87513-1233-4929-a77d-blab00000001-095c25e3 .card-content {
+    width: min(18rem, calc(100vw - 2rem));
+    max-width: 18rem;
+    overflow: visible;
+  }
+
+  #w-node-_6af87513-1233-4929-a77d-blab00000001-095c25e3 .paragraph {
+    overflow-wrap: anywhere;
+  }
+
+  #w-node-_6af87513-1233-4929-a77d-blab00000001-095c25e3 .tags {
+    flex-direction: column;
+  }
+
+  #w-node-_6af87513-1233-4929-a77d-blab00000001-095c25e3 .tag {
+    height: auto;
   }
 }
 
