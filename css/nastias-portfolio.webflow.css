@@ -529,6 +529,10 @@ a {
   display: flex;
 }
 
+.section-project-overview.is-blab-case-study .container-large {
+  grid-row-gap: 2rem;
+}
+
 .content-wrap {
   grid-column-gap: 2rem;
   grid-row-gap: 2rem;
